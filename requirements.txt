@@ -24,3 +24,4 @@ nbconvert
 jupyter
 jupyter_contrib_nbextensions
 widgetsnbextension
+python-Levenshtein
